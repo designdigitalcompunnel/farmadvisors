@@ -963,6 +963,11 @@ footer{background:#000000}
 .topshell[aria-labelledby="ab-h"] .hero-controls{margin-top:8px}
 .topshell[aria-labelledby="ab-h"] .hero-actions{margin-top:16px!important;gap:10px}
 .topshell[aria-labelledby="ab-h"] .ctrl{padding:7px 13px;font-size:13px}
+
+/* ---- round 7: no stacked cards peeking out behind the front card on phones ---- */
+@media(max-width:760px){
+  .deck > *[data-front="false"]{opacity:0!important;visibility:hidden}
+}
 </style>
 <script>document.documentElement.setAttribute('data-theme','light');</script>
 </head>

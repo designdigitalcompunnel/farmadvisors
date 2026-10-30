@@ -959,6 +959,11 @@ footer{background:#000000}
 .topshell[aria-labelledby="ab-h"] h1{font-size:clamp(36px,4.4vw,62px)!important;margin-top:12px!important}
 .topshell[aria-labelledby="ab-h"] .lede{max-width:92ch!important;font-size:16.5px}
 .topshell[aria-labelledby="ab-h"] .hero-controls{margin-top:14px}
+
+/* ---- round 7: no stacked cards peeking out behind the front card on phones ---- */
+@media(max-width:760px){
+  .deck > *[data-front="false"]{opacity:0!important;visibility:hidden}
+}
 </style>
 <script>document.documentElement.setAttribute('data-theme','light');</script>
 </head>
@@ -1129,11 +1134,6 @@ footer{background:#000000}
     <rect width="720" height="320" fill="url(#dot2)" mask="url(#ripple)"/>
   </svg>
 
-  <div class="floaters" aria-hidden="true">
-    <span class="floater f2"><span class="kk" style="background:var(--acc-lt)"></span><b>Regenerative</b> practices</span><b>Indiana</b> farms</span>
-  </div>
-
-  
   <div class="wrap hero">
     <span class="rise" style="display:inline-flex;gap:10px;flex-wrap:wrap;align-items:center">
       <span class="eyebrow">Farmers mentoring farmers</span>
