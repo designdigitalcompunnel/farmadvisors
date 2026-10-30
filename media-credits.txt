@@ -1,0 +1,55 @@
+FARM ADVISORS WEBSITE — IMAGE CREDITS
+
+All photographs below are U.S. Department of Agriculture / Natural Resources Conservation Service (USDA NRCS) images created by federal employees as part of official duties. Wikimedia Commons records them as public domain. The pages link directly to the original static Flickr-hosted image files.
+
+1. Cover crops in an Indiana field before corn planting — USDA NRCS, Brandon O’Connor (2021)
+   https://commons.wikimedia.org/wiki/File:NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-001).jpg
+2. Indiana farmer planting corn directly into cover crops — USDA NRCS, Brandon O’Connor (2021)
+   https://commons.wikimedia.org/wiki/File:NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-017).jpg
+3. Indiana NRCS team leaders talking on a farm — USDA NRCS, Brandon O’Connor (2021)
+   https://commons.wikimedia.org/wiki/File:Farmers_and_Ranchers_(20210513-NRCS-BJOC-015).jpg
+4. Farmer using a roller crimper to terminate cover crops — USDA NRCS, Brandon O’Connor (2021)
+   https://commons.wikimedia.org/wiki/File:NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-030).jpg
+5. Cover crops in an Indiana field — USDA NRCS, Brandon O’Connor (2021)
+   https://commons.wikimedia.org/wiki/File:NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-018).jpg
+6. Cover crops in an Indiana field (portrait composition) — USDA NRCS, Brandon O’Connor (2021)
+   https://commons.wikimedia.org/wiki/File:NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-026).jpg
+7. Indiana farmer using a roller crimper in a cover crop field — USDA NRCS, Brandon O’Connor (2021)
+   https://commons.wikimedia.org/wiki/File:NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-037).jpg
+8. Indiana NRCS planning team leader checking soil at a farm — USDA NRCS, Carly Whitmore (2021)
+   https://commons.wikimedia.org/wiki/File:NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-CSW-041).jpg
+
+Licensing note: Public-domain status is recorded on each Wikimedia Commons file page. These images may be reused; retaining this credit file is recommended. Verify image availability and suitability again before production launch.
+
+VIDEO NOTE
+The supplied template uses image elements and image-based motion/reveal effects; no video slot exists in the current structure. No video element was added because the request explicitly says not to change the structure.
+
+
+Additional distinct USDA NRCS images added to avoid repeating the same photograph across cards and page sections:
+https://commons.wikimedia.org/wiki/Special:FilePath/NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-030).jpg
+https://commons.wikimedia.org/wiki/Special:FilePath/NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-017).jpg
+https://commons.wikimedia.org/wiki/Special:FilePath/NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-BJOC-026).jpg
+https://commons.wikimedia.org/wiki/Special:FilePath/NRCS_Soil_Health_Team_helps_farmers_in_Indiana_(20210513-NRCS-CSW-034).jpg
+https://commons.wikimedia.org/wiki/Special:FilePath/Plant_2022_(20220512-NRCS-BJOC-058).jpg
+https://commons.wikimedia.org/wiki/Special:FilePath/Plant_2022_(20220512-NRCS-BJOC-004).jpg
+https://commons.wikimedia.org/wiki/Special:FilePath/Mike_Starkey_Soybean_Harvest_(52490323282).jpg
+https://commons.wikimedia.org/wiki/Special:FilePath/Soil_Health_(20220420-NRCS-UNK-057).jpg
+All are official USDA/NRCS employee photographs and public domain as U.S. federal government works; image descriptions and contexts are documented on Wikimedia Commons.
+
+
+Image assignment note: each homepage visual section/card has its own image source; About-page image sources are assigned separately. USDA NRCS photographs are public domain as works made by U.S. federal employees.
+
+
+Homepage hero image reliability update (30 October 2026)
+The hero background, hero-side image, Cover Crops card, and Soil Health card now use direct USDA Flickr image-file URLs rather than Wikimedia Special:FilePath redirects. These are separate photos and are public-domain USDA employee photographs:
+- Hero background: https://www.flickr.com/photos/usdagov/51220350526/
+- Hero-side farmer image: https://www.flickr.com/photos/usdagov/51221424300/
+- Cover Crops card: https://www.flickr.com/photos/usdagov/51221424145/
+- Soil Health card (soil inspection): https://www.flickr.com/photos/usdagov/51221116749/
+
+
+Image source updates (30 Oct 2026)
+The Area 02 Conservation Practices card uses a distinct Unsplash CDN image: https://images.unsplash.com/photo-1500382017468-9049fed747ef
+The Conservation card uses a distinct Unsplash CDN image: https://images.unsplash.com/photo-1464226184884-fa280b87c399
+The farmer mentoring story image uses a distinct Unsplash CDN image: https://images.unsplash.com/photo-1499529112087-3cb3b73cec95
+Images are served directly from images.unsplash.com under the Unsplash License. These online image sources require an internet connection.
